@@ -14,6 +14,7 @@ class Dashboard extends Component {
         This is a Dashboard component
         <br/>
         Our secret: <h3>{this.props.secret}</h3>
+        this shit was retrieved from api with jwt token.
       </div>
     );
   }

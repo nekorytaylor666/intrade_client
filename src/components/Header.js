@@ -20,7 +20,7 @@ class Header extends Component {
   render() {
     return (
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark" style={{ marginBottom: '30px' }}>
-        <Link className="navbar-brand" to="/">CodeWorkr API Auth</Link>
+        <Link className="navbar-brand" to="/">Intrade KAPPA</Link>
 
         <div className="collapse navbar-collapse">
           <ul className="navbar-nav mr-auto">
